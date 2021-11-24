@@ -1,0 +1,34 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Mate Calabaza Calabaza Boca Ancha",
+            "price": 1000,
+            "image":"./imagenes/mate-calabaza-boca-ancha.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Mate Cuero Boca Ancha",
+            "price": 2000,
+            "image": "./imagenes/mate-cuero-boca-ancha.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mate imperial Uruguayo",
+            "price": 2500,
+            "image": "./imagenes/mate-imperial-uruguayo.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Mate Negro Boca Ancha Chico",
+            "price": 1500,
+            "image": "./imagenes/mate-negro-chico.jpeg"
+        },
+        {
+            "id": 5,
+            "title": "Mate Rojo Stanley",
+            "price": 1200,
+            "image": "./imagenes/mate-rojo-stanley.jpg"
+        }    
+    ]
+}
